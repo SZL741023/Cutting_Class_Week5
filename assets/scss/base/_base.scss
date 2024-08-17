@@ -24,9 +24,9 @@ p {
 }
 
 .fill-icon {
-  font-variation-settings:
-    "FILL" 1,
-    "wght" 300,
-    "GRAD" 0,
-    "opsz" 24;
+  font-variation-settings: "FILL" 1, "wght" 300, "GRAD" 0, "opsz" 24;
+}
+.content {
+  width: calc(100% - 296px);
+  margin-left: auto;
 }
